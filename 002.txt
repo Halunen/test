@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hey I added new stuff I but it under branch A!
+=======
+These changes will be in branch 2.
+>>>>>>> Branch-B
